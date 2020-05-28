@@ -95,3 +95,4 @@ more involved.
       cd ..
       make install  # Same as original directions.
       cd $DMTCP_ROOT && make -j  # Same as original directions
+4.  When testing at your site, you may need to use 'mpirun' instead of 'srun'.
